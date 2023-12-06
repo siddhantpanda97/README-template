@@ -5,7 +5,7 @@
     <img src="images/gators.jpg" alt="Logo" width="150" height="150">
   </a>
 
-  <h3 align="center">README Template</h3>
+  <h3 align="center">Hand Gesture recognition using ML</h3>
 
   <p align="center">
     A README template to jumpstart your projects!
@@ -28,17 +28,10 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
+      <a href="#about-the-project">Files in our Github Repository</a>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#dependencies">Dependencies</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
